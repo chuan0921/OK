@@ -1,0 +1,11 @@
+INSERT INTO `f1_time` VALUES (1, 1, '15分鐘');
+INSERT INTO `f1_time` VALUES (2, 2, '30分鐘');
+INSERT INTO `f1_time` VALUES (3, 3, '1個小時');
+INSERT INTO `f1_time` VALUES (4, 4, '2個小時');
+INSERT INTO `f1_time` VALUES (5, 5, '3個小時');
+INSERT INTO `f1_time` VALUES (6, 6, '4個小時');
+INSERT INTO `f1_time` VALUES (7, 7, '5個小時');
+INSERT INTO `f1_time` VALUES (8, 8, '6-10個小時');
+INSERT INTO `f1_time` VALUES (9, 9, '11-15個小時');
+INSERT INTO `f1_time` VALUES (10, 10, '16-20個小時');
+INSERT INTO `f1_time` VALUES (11, 11, '一天');

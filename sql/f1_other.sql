@@ -1,0 +1,10 @@
+INSERT INTO `f1_other` VALUES (1, 1, '噁心');
+INSERT INTO `f1_other` VALUES (2, 2, '嘔吐');
+INSERT INTO `f1_other` VALUES (3, 3, '腹瀉');
+INSERT INTO `f1_other` VALUES (4, 4, '頭痛');
+INSERT INTO `f1_other` VALUES (5, 5, '頭暈');
+INSERT INTO `f1_other` VALUES (6, 6, '發燒');
+INSERT INTO `f1_other` VALUES (7, 7, '耳鳴');
+INSERT INTO `f1_other` VALUES (8, 8, '鼻塞');
+INSERT INTO `f1_other` VALUES (9, 9, '流鼻水');
+INSERT INTO `f1_other` VALUES (10, 10, '喉嚨痛');

@@ -1,0 +1,9 @@
+INSERT INTO `f1_soothing` VALUES (1, 1, '排尿');
+INSERT INTO `f1_soothing` VALUES (2, 2, '少喝酒');
+INSERT INTO `f1_soothing` VALUES (3, 3, '喝熱水');
+INSERT INTO `f1_soothing` VALUES (4, 4, '多休息');
+INSERT INTO `f1_soothing` VALUES (5, 5, '吃清淡的東西');
+INSERT INTO `f1_soothing` VALUES (6, 6, '多攝取天然維生素');
+INSERT INTO `f1_soothing` VALUES (7, 7, '按摩');
+INSERT INTO `f1_soothing` VALUES (8, 8, '少抽菸');
+INSERT INTO `f1_soothing` VALUES (9, 9, '吃止痛藥');
